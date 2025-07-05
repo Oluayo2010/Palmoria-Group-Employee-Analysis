@@ -1,4 +1,4 @@
-# Palmoria-Group-Employee-Analysis
+# Palmoria_Group_Employee_Analysis
 
 ## 📊 Project Overview
 
