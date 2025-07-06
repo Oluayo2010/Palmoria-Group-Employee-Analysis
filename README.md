@@ -110,5 +110,8 @@ Kaduna has the highest salary expenditure.
 - **Microsoft Power BI**    
 - **DAX Calculations**  
 - **Power BI Filters, Slicers, Visuals**  
+---
+
+## Dashboard Preview
 
 
