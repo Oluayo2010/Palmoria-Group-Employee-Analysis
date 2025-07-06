@@ -113,5 +113,9 @@ Kaduna has the highest salary expenditure.
 ---
 
 ## Dashboard Preview
+![Employee Analysis](https://github.com/Oluayo2010/Palmoria-Group-Employee-Analysis/blob/main/Screenshot%202025-07-04%20172800.png)
 
+---
+
+![Salary Analysis](https://github.com/Oluayo2010/Palmoria-Group-Employee-Analysis/blob/main/Screenshot%202.png)
 
