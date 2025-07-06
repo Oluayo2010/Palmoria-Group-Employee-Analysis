@@ -1,8 +1,8 @@
-# Palmoria_Group_Employee_Analysis
+# Palmoria Group Employee Analysis
 
 ## 📊 Project Overview
 
-This Power BI Dashboard provides an analytical view of employee distribution, gender balance, salary breakdowns, regional performance, and rating patterns across an organization. 
+This project provides an analytical view of employee distribution, gender balance, salary breakdowns, regional performance, and rating patterns across Palmoria Group. 
 
 It aims to help HR and management better understand workforce structure, pay equity, and performance rating trends.
 
@@ -40,9 +40,9 @@ All three regions maintain a balanced gender distribution.
 ## 💬 Employee Ratings
 
 Ratings are provided by both genders. Majority fall under:
-- **Average (208 employees)**
-- **Good (98 employees)**
-- A few in **Excellent**, **Very Poor**, and **Not Rated**
+- **Average (420 employees)**
+- **Good (180 employees)**
+- A few in **Very Good**, **Very Poor** and **Not Rated**
 
 > Most employees are rated Average or Good, indicating room for performance development and clearer rating standards.
 
@@ -86,27 +86,28 @@ Kaduna has the highest salary expenditure.
 ---
 
 ## 🔍 Insights
+- **Good Gender Balance:** The company has an equal number of men and women in all departments and regions.
 
-1. **Gender Parity Achieved:** The company maintains an impressive gender balance across all regions and departments.
-2. **Salaries are generally balanced**, but some departments and regions show slight pay gaps favoring males.
-3. **Kaduna contributes the most** to overall salary payout, both in base and bonuses.
-4. **Performance Ratings** need a review—majority are rated "Average", indicating potential bias or unclear performance metrics.
+- **Fair Salaries Overall:** Salaries are mostly fair, but in a few places, men are paid slightly more than women.
 
----
+- **Kaduna Pays the Most:** Kaduna branch spends the most on salaries and bonuses.
+
+- **Average Ratings Everywhere:** Most staff are rated “Average” in performance, which may mean the rating system needs fixing or isn’t clear.
 
 ## ✅ Recommendations
+- **Check Salary Fairness:** Look into the small pay differences between men and women in some areas to make sure everyone is treated fairly.
 
-1. **Review Pay Equity:** Slight differences in salary between genders in some departments suggest a review to ensure fairness.
-2. **Standardize Rating System:** Training managers on rating guidelines could help distribute ratings more accurately.
-3. **Employee Development:** Since most ratings are average, consider mentorship or training programs to improve performance.
-4. **Regional Strategy Review:** Analyze why Kaduna has a significantly higher salary budget and whether it's proportionate to performance or cost of living.
+- **Improve How Staff Are Rated:** Train managers on how to properly rate performance so the scores are more accurate.
+
+- **Support Staff Growth:** Since many people are just rated “Average,” offer mentorship or training to help them do better.
+
+- **Review Kaduna’s Spending:** Kaduna is spending a lot on salaries, check if that’s because of higher living costs or better performance.
 
 ---
 
 ## 🛠 Tools Used
 
-- **Microsoft Power BI**  
-- **Excel (for dataset)**  
+- **Microsoft Power BI**    
 - **DAX Calculations**  
 - **Power BI Filters, Slicers, Visuals**  
 
